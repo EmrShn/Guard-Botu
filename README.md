@@ -1,2 +1,3 @@
-# Keystone-Guard-Botu
-Basit sistemli Guard botu geliştirmeye açık :)
+# Keystone Basit Altyapılı Guard Botu
+
+- Geliştirip kullanabilirsiniz.
