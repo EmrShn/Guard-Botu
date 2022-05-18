@@ -1,3 +1,3 @@
-# Keystone Basit Altyapılı Guard Botu
+# EmrSahin Basit Altyapılı Guard Botu
 
 - Geliştirip kullanabilirsiniz. 
